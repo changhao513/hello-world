@@ -1,2 +1,4 @@
 # hello-world
-Hello, github!
+# Hello, github!
+
+echo 'Hello, github!'
